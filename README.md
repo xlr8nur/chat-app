@@ -1,6 +1,6 @@
 # chat-app
 
-Realtime Chat App is a platform where users can chat with their friends in real time. The project is built using modern web technologies to ensure a seamless and responsive user experience. To use it click ➡️ [Chat]([https://chat-app-lro8.onrender.com/login])
+Chat App is a platform where users can chat with their friends in real time. The project is built using modern web technologies to ensure a seamless and responsive user experience. To use it click ➡️ [Chat]([https://chat-app-lro8.onrender.com/login])
 
 ![cover34](https://github.com/user-attachments/assets/1ff22e74-d6b3-4645-b7ab-cc2fdd81f013)
 
